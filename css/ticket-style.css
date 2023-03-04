@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    background-color:#21232F;
+    font-family: 'Poppins', sans-serif;
+}
+
+header span{
+    position: relative;
+    top:-15px;
+    font-size: 22.27px;
+    color: #DBB12C;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+header{
+    width: 90vw;
+    margin: auto;
+}
+
+.image,.description{
+    display: inline-block;
+    width: 44vw;
+    height: 88vw;
+}
+
+.description{
+    color:#DBB12C;
+    font-size: 15px;
+    position: relative;
+    top:-100px;
+    margin-left:5vw;
+}
+
+.description div{
+    width: 170px;
+    margin-bottom: 20px;
+}
+
+.headerimg{
+    width: 11vw;
+}
+
+.calendarbtn{
+    margin-left: 5vw;
+}
+
+main{
+    margin-top:16vh;
+    margin-left:1vw;
+}
+
+.instruction{
+    color: #DBB12C;
+    font-size: 18px;
+    text-align: center;
+    width: 292px;
+    margin: auto;
+    margin-top:-60px;
+    margin-bottom:60px;
+}
+
+footer{
+    background-color: #dbb22c89;
+    width: 102vw;
+    height:115px;
+    margin-left:-2vw;
+}
+
+footer img{
+    width: 24px;
+    height: 24px;
+}
+
+footer div{
+    margin-left:45px;
+    margin-top:30px;
+    display: inline-block;
+}
+
+.mainbtn{
+    box-sizing: border-box;
+    padding-top:10px ;
+    text-align: center;
+    width: 45px;
+    height: 45px;
+    background-color: #664f03;
+    border-radius: 50%;
+    border: 2px solid #b8941e;
+    position: relative;
+    top:-47px;
+    transform: scale(1.5);
+}

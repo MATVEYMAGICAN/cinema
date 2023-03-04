@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin:0px;
+}
+
+body{
+    background-image: url("../img/Group\ 41.png");
+    background-size: cover;
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.block-title{
+    margin-left: 108px;
+    margin-top: 276px;
+}
+
+.links{
+    padding-top: 15px; ;
+}
+
+.links p{
+    text-align: center;
+}
+
+.links a{
+    color:#A07B05;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 30px;
+}
